@@ -8,7 +8,7 @@ import time
 class PsicologoScraper:
     def __init__(self, service_path='Analise-PsyMeet/drivers/chromedriver', url='https://www.psymeetsocial.com/busca', quantidade_de_buscas=500, localidade_por_ddd=''):
         self.service = Service(service_path)
-        self.driver = webdriver.Chrome(service=self.service)
+        self.driver = webdriver.Chrome()
         self.driver.get(url)
         self.driver.maximize_window()
         self.quantidade_de_buscas = quantidade_de_buscas
@@ -40,7 +40,7 @@ class PsicologoScraper:
         return lista_de_especialidades
     
     def salvar_em_json(self):
-        with open('psicologos.json', 'w') as file:
+        with open('data/psicologos.json', 'w') as file:
             json.dump(self.psicologos, file, indent=4)
 
     def scrape(self):

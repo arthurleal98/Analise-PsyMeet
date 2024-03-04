@@ -1,0 +1,4839 @@
+{
+    "psicologos": [
+        {
+            "nome": "Cibele Giacomini",
+            "telefone": "(47) 99978-3527",
+            "link": "https://www.psymeetsocial.com/psicologo/cibele-giacomini",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Desenvolvimento pessoal",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "\u00c2ngela Nascimento da Silva",
+            "telefone": "(55) 98127-1563",
+            "link": "https://www.psymeetsocial.com/psicologo/angela-nascimento-da-silva",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Tristeza",
+                "Traumas",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Felipe Sanberg Schuchmann",
+            "telefone": "(51) 99664-5881",
+            "link": "https://www.psymeetsocial.com/psicologo/felipe-sanberg-schuchmann",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autismo",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Morte e luto"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Karina Guimar\u00e3es Medronho",
+            "telefone": "(21) 98131-9804",
+            "link": "https://www.psymeetsocial.com/psicologo/karina-guimaraes-medronho",
+            "especialidades": [
+                "Ansiedade",
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Autoestima",
+                "Autocobran\u00e7a",
+                "Borderline",
+                "Transtorno de Personalidade",
+                "Depress\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Elismara Sousa dos Santos",
+            "telefone": "(11) 98403-8485",
+            "link": "https://www.psymeetsocial.com/psicologo/elismara-sousa-dos-santos",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Salom\u00e3o de Arruda Gorman",
+            "telefone": "(21) 99448-9655",
+            "link": "https://www.psymeetsocial.com/psicologo/salomao-de-arruda-gorman",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "\u00cdtina Catyane Ramos Silva",
+            "telefone": "(71) 99287-3777",
+            "link": "https://www.psymeetsocial.com/psicologo/itina-catyane-ramos-silva",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Andr\u00e9 Reis Loureiro",
+            "telefone": "(31) 98600-5534",
+            "link": "https://www.psymeetsocial.com/psicologo/andre-reis-loureiro",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Autoconfian\u00e7a",
+                "Doen\u00e7as psicossom\u00e1ticas",
+                "Conflitos familiares",
+                "Culpa",
+                "Medos",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Autoestima"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Dasio Luis de Sousa Santos",
+            "telefone": "(19) 98246-4005",
+            "link": "https://www.psymeetsocial.com/psicologo/dasio-luis-de-sousa-santos",
+            "especialidades": [
+                "Altera\u00e7\u00f5es de humor",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autismo",
+                "Avalia\u00e7\u00e3o psicol\u00f3gica",
+                "Depress\u00e3o",
+                "Morte e luto",
+                "Relacionamentos",
+                "Traumas",
+                "Culpa"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Samara Lima Rodrigues Ferraz",
+            "telefone": "(21) 98341-5149",
+            "link": "https://www.psymeetsocial.com/psicologo/samara-lima-rodrigues-ferraz",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Assertividade",
+                "Autocobran\u00e7a",
+                "Autoconhecimento",
+                "Autoestima",
+                "Autonomia",
+                "Desenvolvimento pessoal",
+                "Frustra\u00e7\u00e3o",
+                "Habilidades Sociais"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Mariana Fran\u00e7a",
+            "telefone": "(61) 98284-6617",
+            "link": "https://www.psymeetsocial.com/psicologo/mariana-franca",
+            "especialidades": [
+                "Transtornos de Ansiedade",
+                "Traumas",
+                "Luto perinatal",
+                "Morte e luto",
+                "Casais",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoconfian\u00e7a",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Viviane Loureiro Silva Costa",
+            "telefone": "(31) 99639-2085",
+            "link": "https://www.psymeetsocial.com/psicologo/viviane-loureiro-silva-costa",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Bullying",
+                "Conflitos familiares",
+                "Depress\u00e3o",
+                "Desenvolvimento pessoal",
+                "Transtorno Obsessivo Compulsivo - TOC",
+                "Fobias"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Scheila Ariela Pierezan",
+            "telefone": "(42) 99982-3898",
+            "link": "https://www.psymeetsocial.com/psicologo/scheila-ariela-pierezan",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Depress\u00e3o",
+                "Desenvolvimento pessoal",
+                "Estresse",
+                "Transtornos de Ansiedade",
+                "Autoestima"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Franciele Freitas Valadares",
+            "telefone": "(31) 99538-7615",
+            "link": "https://www.psymeetsocial.com/psicologo/franciele-freitas-valadares",
+            "especialidades": [
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Autoestima",
+                "Depress\u00e3o",
+                "Estresse",
+                "Relacionamentos",
+                "Conflitos familiares",
+                "Ang\u00fastia",
+                "Conflitos amorosos",
+                "Depend\u00eancia emocional"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Geislane Nat\u00e1lie S\u00e1 Barreto Galo",
+            "telefone": "(71) 98708-8832",
+            "link": "https://www.psymeetsocial.com/psicologo/geislane-natalie-sa-barreto-galo",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Autoestima",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Adolesc\u00eancia",
+                "Conflitos familiares",
+                "Morte e luto"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Valquiria Aparecida de Souza",
+            "telefone": "(35) 98452-1590",
+            "link": "https://www.psymeetsocial.com/psicologo/valquiria-aparecida-de-souza",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Adolesc\u00eancia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Morte e luto",
+                "Orienta\u00e7\u00e3o profissional",
+                "Depress\u00e3o",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Juliane Silva dos Santos",
+            "telefone": "(21) 99674-8146",
+            "link": "https://www.psymeetsocial.com/psicologo/juliane-silva-dos-santos",
+            "especialidades": [
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Autoestima",
+                "Autismo",
+                "Inseguran\u00e7a",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Estresse",
+                "Conflitos familiares"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Priscilla Silva Freitas",
+            "telefone": "(31) 98402-5197",
+            "link": "https://www.psymeetsocial.com/psicologo/priscilla-silva-freitas",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Raiva",
+                "Tristeza",
+                "Traumas",
+                "Terapia familiar",
+                "Laudos Bari\u00e1tricos",
+                "V\u00edcios"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Gabriel Martimiano Gomes",
+            "telefone": "(15) 99255-4929",
+            "link": "https://www.psymeetsocial.com/psicologo/gabriel-martimiano-gomes",
+            "especialidades": [
+                "Abuso Infantil",
+                "Adolesc\u00eancia",
+                "Agress\u00e3o",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Autoestima",
+                "Depress\u00e3o",
+                "Timidez",
+                "Morte e luto",
+                "Isolamento social"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Marcella Dos Santos",
+            "telefone": "(12) 99754-5368",
+            "link": "https://www.psymeetsocial.com/psicologo/marcella-dos-santos",
+            "especialidades": [
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Depress\u00e3o",
+                "Viol\u00eancia dom\u00e9stica",
+                "Acompanhamento psicol\u00f3gico",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "La\u00eds Santos Silva",
+            "telefone": "(77) 99701-7724",
+            "link": "https://www.psymeetsocial.com/psicologo/lais-santos-silva",
+            "especialidades": [
+                "Autoestima",
+                "Depress\u00e3o",
+                "Ansiedade",
+                "Relacionamentos",
+                "Conflitos familiares",
+                "Estresse",
+                "Morte e luto",
+                "Relacionamento abusivo",
+                "Procrastina\u00e7\u00e3o",
+                "Div\u00f3rcio"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Anderson dos Santos Furtado",
+            "telefone": "(91) 98016-3076",
+            "link": "https://www.psymeetsocial.com/psicologo/anderson-dos-santos-furtado",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Depress\u00e3o",
+                "Ansiedade",
+                "LGBTQIA+",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Morte e luto",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Pedro Marinzeck Rodrigues",
+            "telefone": "(35) 99975-1669",
+            "link": "https://www.psymeetsocial.com/psicologo/pedro-marinzeck-rodrigues",
+            "especialidades": [
+                "Ansiedade",
+                "Autoconhecimento",
+                "Depress\u00e3o",
+                "Depend\u00eancia qu\u00edmica",
+                "Compuls\u00f5es",
+                "Psicologia esportiva",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Relacionamentos",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Angelina Vasconcelos Fragoso",
+            "telefone": "(83) 98661-5224",
+            "link": "https://www.psymeetsocial.com/psicologo/angelina-vasconcelos-fragoso",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamento abusivo",
+                "Depend\u00eancia emocional",
+                "Narcisismo",
+                "Terapia familiar",
+                "Transtorno de Estresse P\u00f3s Traum\u00e1tico - TEPT",
+                "Transtorno de Ansiedade Generalizada - TAG"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Millene Silvanete Valdevino Da Silva",
+            "telefone": "(81) 97104-6645",
+            "link": "https://www.psymeetsocial.com/psicologo/millene-silvanete-valdevino-da-silva",
+            "especialidades": [
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Depress\u00e3o",
+                "Traumas",
+                "Sa\u00fade mental",
+                "Obsess\u00e3o",
+                "Depend\u00eancia emocional",
+                "Autoestima",
+                "Acompanhamento psicol\u00f3gico",
+                "Empoderamento"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Naciff Vin\u00edcius Chaluppe Buono Oliveira",
+            "telefone": "(11) 98936-5849",
+            "link": "https://www.psymeetsocial.com/psicologo/naciff-vinicius-chaluppe-buono-oliveira",
+            "especialidades": [
+                "Obesidade",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Morte e luto",
+                "Traumas"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Jessica Rodrigues Borges",
+            "telefone": "(64) 99343-2110",
+            "link": "https://www.psymeetsocial.com/psicologo/jessica-rodrigues-borges",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Tricotilomania",
+                "Depress\u00e3o",
+                "Autocobran\u00e7a",
+                "Tristeza",
+                "Ang\u00fastia",
+                "Empoderamento",
+                "Puerp\u00e9rio",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lorenzo dos Santos Veber",
+            "telefone": "(53) 99908-2077",
+            "link": "https://www.psymeetsocial.com/psicologo/lorenzo-dos-santos-veber",
+            "especialidades": [
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Autocuidado",
+                "Autonomia",
+                "Envelhecimento",
+                "Estresse",
+                "Mindfulness",
+                "Morte e luto"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Rodrigo De Almeida Lucas",
+            "telefone": "(21) 97706-9971",
+            "link": "https://www.psymeetsocial.com/psicologo/rodrigo-de-almeida-lucas",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Morte e luto",
+                "Traumas",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Eduardo Rinaldi de Araujo Lima",
+            "telefone": "(81) 98215-6341",
+            "link": "https://www.psymeetsocial.com/psicologo/eduardo-rinaldi-de-araujo-lima",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "LGBTQIA+",
+                "Conflitos amorosos",
+                "Maternidade",
+                "Ado\u00e7\u00e3o de filhos",
+                "Relacionamentos",
+                "Autocuidado",
+                "Div\u00f3rcio"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "M\u00e1rio Henrique Santamaria",
+            "telefone": "(19) 99606-7996",
+            "link": "https://www.psymeetsocial.com/psicologo/mario-henrique-santamaria",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Morte e luto",
+                "Traumas"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Rafaela Cristina Gomes da Silva",
+            "telefone": "(81) 9684-8784",
+            "link": "https://www.psymeetsocial.com/psicologo/rafaela-cristina-gomes-da-silva",
+            "especialidades": [
+                "Agorafobia",
+                "Fobias",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Timidez"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Jully de Souza El\u00f3i",
+            "telefone": "(61) 98193-8560",
+            "link": "https://www.psymeetsocial.com/psicologo/jully-de-souza-eloi",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "V\u00edcios",
+                "Traumas",
+                "Relacionamento abusivo",
+                "Autoestima",
+                "Conflitos familiares",
+                "Borderline"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Maicon Alves da Silva",
+            "telefone": "(19) 98309-6263",
+            "link": "https://www.psymeetsocial.com/psicologo/maicon-alves-da-silva",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoconhecimento",
+                "Depend\u00eancia qu\u00edmica",
+                "Estresse",
+                "Depend\u00eancia emocional",
+                "Frustra\u00e7\u00e3o",
+                "Traumas"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Valeska Gomes Nunes",
+            "telefone": "(83) 99910-2621",
+            "link": "https://www.psymeetsocial.com/psicologo/valeska-gomes-nunes",
+            "especialidades": [
+                "Ansiedade",
+                "Automutila\u00e7\u00e3o",
+                "Envelhecimento",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Depress\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Samantha Panizza",
+            "telefone": "(16) 99245-2272",
+            "link": "https://www.psymeetsocial.com/psicologo/samantha-panizza",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Assertividade",
+                "Emagrecimento",
+                "Psicologia esportiva",
+                "Medos",
+                "Sa\u00fade do trabalhador",
+                "Relacionamentos",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Natan Nascimento",
+            "telefone": "(71) 98479-2588",
+            "link": "https://www.psymeetsocial.com/psicologo/natan-nascimento",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Culpa",
+                "Abuso Infantil",
+                "Transtorno do Espectro Autista - TEA",
+                "Traumas",
+                "Viol\u00eancia sexual",
+                "Terceira idade"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Thalles Vasconcelos Meneses",
+            "telefone": "(88) 99226-8763",
+            "link": "https://www.psymeetsocial.com/psicologo/thalles-vasconcelos-meneses",
+            "especialidades": [
+                "Transtornos de Ansiedade",
+                "Depress\u00e3o",
+                "Acompanhamento psicol\u00f3gico",
+                "Habilidades Sociais",
+                "Fobia Social",
+                "Medo de falar em p\u00fablico",
+                "Agorafobia",
+                "Autoestima",
+                "Relacionamentos",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "C\u00e1tia Cilene Souza Martins",
+            "telefone": "(53) 99959-8295",
+            "link": "https://www.psymeetsocial.com/psicologo/catia-cilene-souza-martins",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Morte e luto",
+                "Traumas",
+                "Fobias",
+                "V\u00edcios",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Pedro Buzatti",
+            "telefone": "(67) 99206-8326",
+            "link": "https://www.psymeetsocial.com/psicologo/pedro-buzatti",
+            "especialidades": [
+                "Ansiedade",
+                "Medos",
+                "Autoconhecimento",
+                "Compuls\u00f5es",
+                "Conflitos amorosos",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Thiago Costa",
+            "telefone": "(21) 96477-9154",
+            "link": "https://www.psymeetsocial.com/psicologo/thiago-costa",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Morte e luto"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "L\u00eddia Micaely Ferreira da Silva Moraes",
+            "telefone": "(82) 98714-6811",
+            "link": "https://www.psymeetsocial.com/psicologo/lidia-micaely-ferreira-da-silva-moraes",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Morte e luto",
+                "Traumas",
+                "Supervis\u00e3o Cl\u00ednica em Psicologia"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Let\u00edcia Casimiro Ara\u00fajo",
+            "telefone": "(11) 99639-9198",
+            "link": "https://www.psymeetsocial.com/psicologo/leticia-casimiro-araujo",
+            "especialidades": [
+                "Transtornos de Ansiedade",
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Depress\u00e3o",
+                "Ansiedade",
+                "Relacionamentos",
+                "Medos",
+                "Traumas",
+                "Fobias",
+                "Tristeza",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Natalia de Souza Iankoski",
+            "telefone": "(51) 99376-2654",
+            "link": "https://www.psymeetsocial.com/psicologo/natalia-de-souza-iankoski",
+            "especialidades": [
+                "Orienta\u00e7\u00e3o de Pais",
+                "Autoaceita\u00e7\u00e3o",
+                "Sa\u00fade mental",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Kennedy Robinson Alves da Silva",
+            "telefone": "(88) 99429-1982",
+            "link": "https://www.psymeetsocial.com/psicologo/kennedy-robinson-alves-da-silva",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Negritude",
+                "Ang\u00fastia",
+                "Relacionamentos",
+                "Autoestima",
+                "Traumas",
+                "Medos",
+                "Tristeza",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Janaina Santos Fernandes",
+            "telefone": "(71) 99240-9949",
+            "link": "https://www.psymeetsocial.com/psicologo/janaina-santos-fernandes",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Autoaceita\u00e7\u00e3o",
+                "Conflitos familiares",
+                "Relacionamentos",
+                "Autoestima",
+                "Ang\u00fastia",
+                "Relacionamento abusivo",
+                "Traumas",
+                "Medos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Graice Hinds dos Santos Fran\u00e7a Alves",
+            "telefone": "(21) 98357-1593",
+            "link": "https://www.psymeetsocial.com/psicologo/graice-hinds-dos-santos-franca-alves",
+            "especialidades": [
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Fobias",
+                "S\u00edndrome do P\u00e2nico",
+                "Viol\u00eancia sexual",
+                "Morte e luto",
+                "Traumas",
+                "Transtornos de Ansiedade",
+                "Sa\u00fade mental"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Caio Nunes Pimenta",
+            "telefone": "(35) 99119-4718",
+            "link": "https://www.psymeetsocial.com/psicologo/caio-nunes-pimenta",
+            "especialidades": [
+                "Transtorno do Espectro Autista - TEA",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Sexualidade",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Layla Roberta dos Santos Barros Passos",
+            "telefone": "(31) 99163-3082",
+            "link": "https://www.psymeetsocial.com/psicologo/layla-roberta-dos-santos-barros-passos",
+            "especialidades": [
+                "Autocuidado",
+                "Racismo",
+                "Ansiedade",
+                "Autismo",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lara Dias do Nascimento",
+            "telefone": "(17) 99736-4864",
+            "link": "https://www.psymeetsocial.com/psicologo/lara-dias-do-nascimento",
+            "especialidades": [
+                "Agorafobia",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Estresse",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH",
+                "Transtorno Obsessivo Compulsivo - TOC",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Adriana Florindo",
+            "telefone": "(21) 98878-3839",
+            "link": "https://www.psymeetsocial.com/psicologo/adriana-florindo",
+            "especialidades": [
+                "Viol\u00eancia dom\u00e9stica",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Relacionamento abusivo",
+                "Estresse",
+                "Traumas",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Igor Silva Caldas",
+            "telefone": "(98) 98148-0014",
+            "link": "https://www.psymeetsocial.com/psicologo/igor-silva-caldas",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Estresse",
+                "Traumas",
+                "Morte e luto",
+                "Tristeza",
+                "Medos",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Ana Carolina Stockler Fran\u00e7a",
+            "telefone": "(21) 96639-8600",
+            "link": "https://www.psymeetsocial.com/psicologo/ana-carolina-stockler-franca",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Agressividade",
+                "Autoconhecimento",
+                "Bullying",
+                "Medos",
+                "Obsess\u00e3o",
+                "Enurese",
+                "Ang\u00fastia",
+                "Compuls\u00f5es"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Leandro Lage Macedo",
+            "telefone": "(87) 99603-8503",
+            "link": "https://www.psymeetsocial.com/psicologo/leandro-lage-macedo",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Desenvolvimento pessoal",
+                "Inseguran\u00e7a",
+                "Medita\u00e7\u00e3o",
+                "Procrastina\u00e7\u00e3o",
+                "Relacionamentos",
+                "Estresse",
+                "Traumas",
+                "Ansiedade",
+                "Depress\u00e3o"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Fernanda Buarque de Lima",
+            "telefone": "(81) 98316-8812",
+            "link": "https://www.psymeetsocial.com/psicologo/fernanda-buarque-de-lima",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Tristeza",
+                "Traumas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Luanna Ralinka Soares Mendes",
+            "telefone": "(98) 98732-6512",
+            "link": "https://www.psymeetsocial.com/psicologo/luanna-ralinka-soares-mendes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Conflitos amorosos",
+                "Transtornos de Ansiedade",
+                "Ang\u00fastia",
+                "Morte e luto",
+                "Autoestima",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "J\u00e9ssica Ferreira Conegundes",
+            "telefone": "(31) 99536-6283",
+            "link": "https://www.psymeetsocial.com/psicologo/jessica-ferreira-conegundes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Avalia\u00e7\u00e3o psicol\u00f3gica",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Antonio Jucelino Tomas Filho",
+            "telefone": "(88) 99973-5703",
+            "link": "https://www.psymeetsocial.com/psicologo/antonio-jucelino-tomas-filho",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Avalia\u00e7\u00e3o psicol\u00f3gica",
+                "Relacionamentos",
+                "Transtornos de Ansiedade",
+                "Estresse",
+                "Fam\u00edlia"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Laryssa Raquel da Costa Alves",
+            "telefone": "(84) 99638-9608",
+            "link": "https://www.psymeetsocial.com/psicologo/laryssa-raquel-da-costa-alves",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocuidado",
+                "Fam\u00edlia",
+                "Sa\u00fade mental",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lorena Luanda Prestes Magalh\u00e3es",
+            "telefone": "(53) 99179-6577",
+            "link": "https://www.psymeetsocial.com/psicologo/lorena-luanda-prestes-magalhaes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Altera\u00e7\u00f5es de humor",
+                "Agressividade",
+                "Autocobran\u00e7a",
+                "Autoestima",
+                "Conflitos familiares",
+                "Conflitos amorosos",
+                "Morte e luto",
+                "Depress\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Jesus Gomez Bidopia",
+            "telefone": "(85) 99869-7140",
+            "link": "https://www.psymeetsocial.com/psicologo/jesus-gomez-bidopia",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Conflitos familiares",
+                "Estresse",
+                "Tristeza",
+                "Traumas",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Bianca Dantas da Silva de Oliveira",
+            "telefone": "(71) 99681-4917",
+            "link": "https://www.psymeetsocial.com/psicologo/bianca-dantas-da-silva-de-oliveira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autocobran\u00e7a",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Ci\u00fames",
+                "Incertezas",
+                "Tristeza",
+                "Transtorno de Ansiedade Generalizada - TAG"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Nath\u00e1lia Carvalho dos Anjos",
+            "telefone": "(84) 99944-5947",
+            "link": "https://www.psymeetsocial.com/psicologo/nathalia-carvalho-dos-anjos",
+            "especialidades": [
+                "Avalia\u00e7\u00e3o psicol\u00f3gica",
+                "Transtornos de Ansiedade",
+                "Depress\u00e3o",
+                "Acompanhamento psicol\u00f3gico",
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Fobia Social",
+                "Estresse p\u00f3s-traum\u00e1tico",
+                "Viol\u00eancia dom\u00e9stica",
+                "Viol\u00eancia sexual"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Audinice Menezes Braga",
+            "telefone": "(88) 99753-0676",
+            "link": "https://www.psymeetsocial.com/psicologo/audinice-menezes-braga",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Conflitos amorosos",
+                "Depend\u00eancia emocional",
+                "Depress\u00e3o",
+                "Fobia Social",
+                "Relacionamentos",
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Transtorno de P\u00e2nico ou S\u00edndrome do P\u00e2nico",
+                "Autoaceita\u00e7\u00e3o",
+                "S\u00edndrome de Burnout"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Roberto Martini Junior",
+            "telefone": "(31) 99932-9045",
+            "link": "https://www.psymeetsocial.com/psicologo/roberto-martini-junior",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Medita\u00e7\u00e3o",
+                "Estresse",
+                "Falta de foco",
+                "Educa\u00e7\u00e3o escolar"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Francisca Nat\u00e1lia da Silva Varela",
+            "telefone": "(84) 98865-8608",
+            "link": "https://www.psymeetsocial.com/psicologo/francisca-natalia-da-silva-varela",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Autoestima",
+                "Obesidade",
+                "Transtornos Cognitivos",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH",
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Transtorno Bipolar",
+                "Avalia\u00e7\u00e3o psicol\u00f3gica",
+                "Orienta\u00e7\u00e3o para cirurgia bari\u00e1trica"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Jaqueline Eduarda Alves dos Anjos",
+            "telefone": "(14) 99634-1977",
+            "link": "https://www.psymeetsocial.com/psicologo/jaqueline-eduarda-alves-dos-anjos",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Casamento",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Autoestima",
+                "Conflitos familiares",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Izabela Campos",
+            "telefone": "(16) 99104-4065",
+            "link": "https://www.psymeetsocial.com/psicologo/izabela-campos",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Tristeza",
+                "Traumas",
+                "Transtorno do Espectro Autista - TEA",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Karen Cristina de Almeida Nunes",
+            "telefone": "(11) 96190-7444",
+            "link": "https://www.psymeetsocial.com/psicologo/karen-cristina-de-almeida-nunes",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ang\u00fastia",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocobran\u00e7a",
+                "Relacionamentos",
+                "Estresse",
+                "Tristeza",
+                "Traumas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Maria Helena Oliveira Santos",
+            "telefone": "(84) 99491-0408",
+            "link": "https://www.psymeetsocial.com/psicologo/maria-helena-oliveira-santos",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Depend\u00eancia emocional",
+                "Depress\u00e3o",
+                "Estresse",
+                "Incertezas",
+                "Sa\u00fade mental",
+                "Timidez",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Kelly Cristina Ribeiro Moraes",
+            "telefone": "(21) 98139-4906",
+            "link": "https://www.psymeetsocial.com/psicologo/kelly-cristina-ribeiro-moraes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ang\u00fastia",
+                "Baby Blues",
+                "Depress\u00e3o",
+                "Gravidez",
+                "Falta de foco",
+                "Identidade",
+                "Identidade de g\u00eanero"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tani\u00e9li Mazutti do Nascimento",
+            "telefone": "(54) 3601-0504",
+            "link": "https://www.psymeetsocial.com/psicologo/tanieli-mazutti-do-nascimento",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autoestima",
+                "Conflitos amorosos",
+                "Conflitos familiares",
+                "Relacionamento abusivo",
+                "Relacionamentos",
+                "Timidez",
+                "Sexualidade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Marco Ant\u00f4nio Cury",
+            "telefone": "(11) 98241-1389",
+            "link": "https://www.psymeetsocial.com/psicologo/marco-antonio-cury",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Casais",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Morte e luto",
+                "Suic\u00eddio",
+                "Autoconhecimento",
+                "Autocuidado",
+                "Autoaceita\u00e7\u00e3o"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Thiago Gon\u00e7alves de Oliveira",
+            "telefone": "(11) 98661-1707",
+            "link": "https://www.psymeetsocial.com/psicologo/thiago-goncalves-de-oliveira",
+            "especialidades": [
+                "Assertividade",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Depress\u00e3o",
+                "Culpa",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Altera\u00e7\u00f5es de humor",
+                "LGBTQIA+"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Rosa Munique de Figueiredo Gon\u00e7alves Sales",
+            "telefone": "(85) 98655-5570",
+            "link": "https://www.psymeetsocial.com/psicologo/rosa-munique-de-figueiredo-goncalves-sales",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoaceita\u00e7\u00e3o",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Compuls\u00f5es",
+                "Depress\u00e3o",
+                "Estresse",
+                "Conflitos familiares"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Nicolas Victor da Silva",
+            "telefone": "(74) 99911-3014",
+            "link": "https://www.psymeetsocial.com/psicologo/nicolas-victor-da-silva",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoestima",
+                "Casais",
+                "Casamento",
+                "Bullying",
+                "Depress\u00e3o",
+                "Transtorno Bipolar",
+                "Depend\u00eancia emocional",
+                "Ansiedade"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Adelino Martins Ribeiro",
+            "telefone": "(22) 99906-7282",
+            "link": "https://www.psymeetsocial.com/psicologo/adelino-martins-ribeiro",
+            "especialidades": [
+                "Ansiedade",
+                "Autoconhecimento",
+                "Conflitos familiares",
+                "Casamento",
+                "Casais",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Relacionamento abusivo",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Ingrid Gabrielle Villasante Arag\u00e3o",
+            "telefone": "(67) 99227-7277",
+            "link": "https://www.psymeetsocial.com/psicologo/ingrid-gabrielle-villasante-aragao",
+            "especialidades": [
+                "Ansiedade",
+                "Viol\u00eancia dom\u00e9stica",
+                "Sexualidade",
+                "Racismo",
+                "LGBTQIA+",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Compuls\u00f5es",
+                "Depend\u00eancia qu\u00edmica",
+                "Depress\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Geovana de Jesus",
+            "telefone": "(44) 99993-9851",
+            "link": "https://www.psymeetsocial.com/psicologo/geovana-de-jesus",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Traumas",
+                "Desenvolvimento pessoal",
+                "Desenvolvimento de compet\u00eancias",
+                "Orienta\u00e7\u00e3o profissional",
+                "Autoconhecimento"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Dayane Mendes Pires",
+            "telefone": "(11) 93349-0639",
+            "link": "https://www.psymeetsocial.com/psicologo/dayane-mendes-pires",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Sa\u00fade mental",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Morte e luto",
+                "Depress\u00e3o",
+                "S\u00edndrome de Burnout",
+                "S\u00edndrome do P\u00e2nico",
+                "Autoconhecimento",
+                "Doen\u00e7as psicossom\u00e1ticas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Fernanda da Rosa de Azevedo",
+            "telefone": "(53) 98127-5355",
+            "link": "https://www.psymeetsocial.com/psicologo/fernanda-da-rosa-de-azevedo",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "S\u00edndrome de Burnout",
+                "Procrastina\u00e7\u00e3o",
+                "Autoconhecimento"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "K\u00e1ssia Karine Bezerra Fonseca",
+            "telefone": "(85) 99615-0001",
+            "link": "https://www.psymeetsocial.com/psicologo/kassia-karine-bezerra-fonseca",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autonomia",
+                "Autoestima",
+                "Compuls\u00f5es",
+                "Desenvolvimento pessoal",
+                "Conflitos familiares",
+                "Conflitos amorosos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lucas Perroni dos Reis",
+            "telefone": "(16) 99650-9810",
+            "link": "https://www.psymeetsocial.com/psicologo/lucas-perroni-dos-reis",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Depress\u00e3o",
+                "Ansiedade",
+                "Relacionamentos",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Autoconfian\u00e7a"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Christian Winters",
+            "telefone": "(19) 99628-7663",
+            "link": "https://www.psymeetsocial.com/psicologo/christian-winters",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Educa\u00e7\u00e3o financeira",
+                "Pessoas com defici\u00eancia - PCD",
+                "Suic\u00eddio",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Annie Caroline Arag\u00e3o Figueredo Guimar\u00e3es",
+            "telefone": "(21) 96684-7306",
+            "link": "https://www.psymeetsocial.com/psicologo/annie-caroline-aragao-figueredo-guimaraes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Traumas",
+                "LGBTQIA+",
+                "Orienta\u00e7\u00e3o sexual",
+                "Sexualidade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Jennyfer Santana da Silva",
+            "telefone": "(11) 98825-5992",
+            "link": "https://www.psymeetsocial.com/psicologo/jennyfer-santana-da-silva",
+            "especialidades": [
+                "Transtornos de Ansiedade",
+                "Suic\u00eddio",
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Simone Noli",
+            "telefone": "(16) 99711-9240",
+            "link": "https://www.psymeetsocial.com/psicologo/simone-noli",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Altera\u00e7\u00f5es de humor",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Conflitos amorosos",
+                "Depend\u00eancia emocional",
+                "Tristeza",
+                "Relacionamentos",
+                "Traumas",
+                "Borderline"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Nath\u00e1lia Almeida Barbosa",
+            "telefone": "(21) 98256-5485",
+            "link": "https://www.psymeetsocial.com/psicologo/nathalia-almeida-barbosa",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Agressividade",
+                "Ansiedade",
+                "Ass\u00e9dio moral",
+                "Autoconhecimento",
+                "Ci\u00fames",
+                "Viol\u00eancia dom\u00e9stica",
+                "Viol\u00eancia sexual",
+                "Libido"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Luccas Teles",
+            "telefone": "(21) 99061-0390",
+            "link": "https://www.psymeetsocial.com/psicologo/luccas-teles",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "LGBTQIA+",
+                "Agress\u00e3o",
+                "Autoconfian\u00e7a",
+                "Ins\u00f4nia",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Aline Maio Spadini",
+            "telefone": "(11) 96050-3614",
+            "link": "https://www.psymeetsocial.com/psicologo/aline-maio-spadini",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoconhecimento",
+                "Autocuidado",
+                "Autoestima",
+                "Tristeza",
+                "Traumas",
+                "S\u00edndrome de Burnout"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tain\u00e1 Correzola Hosaka",
+            "telefone": "(11) 94824-6464",
+            "link": "https://www.psymeetsocial.com/psicologo/taina-correzola-hosaka",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Acompanhamento psicol\u00f3gico",
+                "Assertividade",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Tristeza",
+                "Traumas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Helba Midiam dos Anjos de Melo",
+            "telefone": "(81) 99544-2833",
+            "link": "https://www.psymeetsocial.com/psicologo/helba-midiam-dos-anjos-de-melo",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autocuidado",
+                "Transtornos Psiqui\u00e1tricos",
+                "Traumas",
+                "C\u00e2ncer",
+                "Morte e luto",
+                "Maternidade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Leon\u00e1ria Alves Lopes Medeiros",
+            "telefone": "(61) 98179-4131",
+            "link": "https://www.psymeetsocial.com/psicologo/leonaria-alves-lopes-medeiros",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Anorexia nervosa",
+                "Ang\u00fastia",
+                "Autocobran\u00e7a",
+                "Borderline",
+                "Casais",
+                "Conflitos amorosos",
+                "Compuls\u00e3o alimentar",
+                "Doen\u00e7as psicossom\u00e1ticas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Guilherme Pawoski Hunzicker",
+            "telefone": "(41) 99724-5967",
+            "link": "https://www.psymeetsocial.com/psicologo/guilherme-pawoski-hunzicker",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocobran\u00e7a",
+                "Autoconhecimento",
+                "Autoconfian\u00e7a",
+                "Autonomia",
+                "Desenvolvimento pessoal",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "L\u00eddia Ramos de Ara\u00fajo",
+            "telefone": "(86) 99481-8276",
+            "link": "https://www.psymeetsocial.com/psicologo/lidia-ramos-de-araujo",
+            "especialidades": [
+                "Ansiedade",
+                "Autismo",
+                "Adolesc\u00eancia",
+                "Depress\u00e3o",
+                "LGBTQIA+",
+                "Negritude",
+                "Acompanhamento psicol\u00f3gico",
+                "Morte e luto",
+                "Sexualidade",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Anna Carolina do Nascimento Ara\u00fajo",
+            "telefone": "(21) 97668-5708",
+            "link": "https://www.psymeetsocial.com/psicologo/anna-carolina-do-nascimento-araujo",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Conflitos familiares",
+                "Depress\u00e3o",
+                "Estresse",
+                "Libras",
+                "Negritude",
+                "Sa\u00fade mental"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Rhayane Oliveira Lima",
+            "telefone": "(22) 99920-7333",
+            "link": "https://www.psymeetsocial.com/psicologo/rhayane-oliveira-lima",
+            "especialidades": [
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Borderline",
+                "Depend\u00eancia qu\u00edmica",
+                "Depress\u00e3o",
+                "Envelhecimento",
+                "Obesidade",
+                "Transtorno do Sono",
+                "Transtorno de Personalidade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Gl\u00edcia Carla Costa Cortez Lima Formiga",
+            "telefone": "(86) 98867-5505",
+            "link": "https://www.psymeetsocial.com/psicologo/glicia-carla-costa-cortez-lima-formiga",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Autismo",
+                "Automutila\u00e7\u00e3o",
+                "Compuls\u00f5es",
+                "Conflitos familiares",
+                "Depress\u00e3o p\u00f3s-parto",
+                "Morte e luto",
+                "Psicologia jur\u00eddica"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Alex Alves Avelino",
+            "telefone": "(11) 95871-6883",
+            "link": "https://www.psymeetsocial.com/psicologo/alex-alves-avelino",
+            "especialidades": [
+                "Ado\u00e7\u00e3o de filhos",
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Ass\u00e9dio moral",
+                "Autocuidado",
+                "Autoestima",
+                "Compuls\u00f5es",
+                "Estresse",
+                "Sa\u00fade mental"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Vin\u00edcius Furtado Souza",
+            "telefone": "(31) 97115-7356",
+            "link": "https://www.psymeetsocial.com/psicologo/vinicius-furtado-souza",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ado\u00e7\u00e3o de filhos",
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "Casais",
+                "Ci\u00fames",
+                "Casamento",
+                "Conflitos amorosos",
+                "Tristeza",
+                "Relacionamentos"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Fernanda Flor de Jesus",
+            "telefone": "(21) 99222-9099",
+            "link": "https://www.psymeetsocial.com/psicologo/fernanda-flor-de-jesus",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autocobran\u00e7a",
+                "Autoconhecimento",
+                "Autocuidado",
+                "Autoestima",
+                "Depend\u00eancia emocional",
+                "Relacionamentos",
+                "Relacionamento abusivo",
+                "Abuso Infantil"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "C\u00e9lio Machado da Silva",
+            "telefone": "(61) 99816-5735",
+            "link": "https://www.psymeetsocial.com/psicologo/celio-machado-da-silva",
+            "especialidades": [
+                "Ansiedade",
+                "Estresse",
+                "Depress\u00e3o",
+                "Autoestima",
+                "Transtornos de Ansiedade",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH",
+                "Acompanhamento psicol\u00f3gico",
+                "Autoconhecimento",
+                "Relacionamento abusivo",
+                "Orienta\u00e7\u00e3o psicol\u00f3gica"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Stephany Araujo Oliveira da Silva",
+            "telefone": "(81) 99405-9398",
+            "link": "https://www.psymeetsocial.com/psicologo/stephany-araujo-oliveira-da-silva",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Ang\u00fastia",
+                "Autocobran\u00e7a",
+                "Depend\u00eancia emocional",
+                "Isolamento social",
+                "Relacionamentos",
+                "Conflitos familiares",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Nayssa Melanie Moraes de Souza",
+            "telefone": "(19) 99236-3026",
+            "link": "https://www.psymeetsocial.com/psicologo/nayssa-melanie-moraes-de-souza",
+            "especialidades": [
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autoconfian\u00e7a",
+                "Compuls\u00e3o alimentar",
+                "Compuls\u00e3o por compras",
+                "Cuidados paliativos",
+                "Conflitos amorosos",
+                "Conflitos familiares",
+                "Depend\u00eancia emocional",
+                "Depress\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Victor Fodra",
+            "telefone": "(44) 99807-5160",
+            "link": "https://www.psymeetsocial.com/psicologo/victor-fodra",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Tristeza",
+                "Traumas",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Autoconfian\u00e7a"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Juliana Nunes Nascimento",
+            "telefone": "(34) 99923-6794",
+            "link": "https://www.psymeetsocial.com/psicologo/juliana-nunes-nascimento",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocuidado",
+                "Altera\u00e7\u00f5es de humor",
+                "Autocobran\u00e7a",
+                "Autoestima",
+                "Ci\u00fames",
+                "Agress\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lara Gurgel",
+            "telefone": "(86) 99913-0760",
+            "link": "https://www.psymeetsocial.com/psicologo/lara-gurgel",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoconhecimento",
+                "Desenvolvimento pessoal",
+                "Inseguran\u00e7a",
+                "Tristeza",
+                "Autoaceita\u00e7\u00e3o",
+                "Autonomia",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Andressa Cordeiro Rocha dos Santos",
+            "telefone": "(86) 99418-1220",
+            "link": "https://www.psymeetsocial.com/psicologo/andressa-cordeiro-rocha-dos-santos",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Inf\u00e2ncia",
+                "Autismo",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Estresse",
+                "Tristeza",
+                "Autoconfian\u00e7a",
+                "Autoestima"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Gleyci Rosilene dos Santos",
+            "telefone": "(79) 98163-5135",
+            "link": "https://www.psymeetsocial.com/psicologo/gleyci-rosilene-dos-santos",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Autoestima",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Procrastina\u00e7\u00e3o",
+                "Traumas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Fernando Malato de Figueiredo Neto",
+            "telefone": "(91) 98135-3967",
+            "link": "https://www.psymeetsocial.com/psicologo/fernando-malato-de-figueiredo-neto",
+            "especialidades": [
+                "Agressividade",
+                "Autoestima",
+                "Bullying",
+                "Depress\u00e3o",
+                "Culpa",
+                "Frustra\u00e7\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Morte e luto"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "\u00c9rik Soares Gomes",
+            "telefone": "(11) 91297-0651",
+            "link": "https://www.psymeetsocial.com/psicologo/erik-soares-gomes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoestima",
+                "Bullying",
+                "Casais",
+                "Depend\u00eancia emocional",
+                "Identidade de g\u00eanero",
+                "Orienta\u00e7\u00e3o sexual",
+                "Traumas"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Rodrigo Silva de Mendon\u00e7a",
+            "telefone": "(21) 97670-2204",
+            "link": "https://www.psymeetsocial.com/psicologo/rodrigo-silva-de-mendonca",
+            "especialidades": [
+                "Pessoas com defici\u00eancia - PCD",
+                "Sa\u00fade mental",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoestima",
+                "Culpa",
+                "Depress\u00e3o",
+                "Estresse",
+                "Medos"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Thais Bernardo Nunes",
+            "telefone": "(11) 92004-7315",
+            "link": "https://www.psymeetsocial.com/psicologo/thais-bernardo-nunes",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Transtornos de Ansiedade",
+                "Estresse",
+                "Autoestima",
+                "Estresse p\u00f3s-traum\u00e1tico",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Morte e luto",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "\u00cdcaro da Silva Gomes",
+            "telefone": "(83) 99104-4076",
+            "link": "https://www.psymeetsocial.com/psicologo/icaro-da-silva-gomes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Tristeza",
+                "Baby Blues",
+                "Conflitos familiares",
+                "Depress\u00e3o",
+                "Fam\u00edlia",
+                "Inf\u00e2ncia",
+                "Identidade de g\u00eanero"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Val\u00e9ria de Sousa Moreira",
+            "telefone": "(62) 98530-0340",
+            "link": "https://www.psymeetsocial.com/psicologo/valeria-de-sousa-moreira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Luiza Caroline Coelho Corr\u00eaa",
+            "telefone": "(31) 99785-7363",
+            "link": "https://www.psymeetsocial.com/psicologo/luiza-caroline-coelho-correa",
+            "especialidades": [
+                "Ansiedade",
+                "Sa\u00fade mental",
+                "Acompanhamento terap\u00eautico",
+                "Ang\u00fastia",
+                "Compuls\u00f5es",
+                "Conflitos amorosos",
+                "Conflitos familiares",
+                "Depress\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Milton Alves de Mattos Neto",
+            "telefone": "(14) 99681-1998",
+            "link": "https://www.psymeetsocial.com/psicologo/milton-alves-de-mattos-neto",
+            "especialidades": [
+                "Ansiedade",
+                "Adolesc\u00eancia",
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Autoestima",
+                "Automutila\u00e7\u00e3o",
+                "Borderline",
+                "Compuls\u00f5es",
+                "Depend\u00eancia emocional"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Francisco Elexandre Barboza de Freitas",
+            "telefone": "(85) 98412-4774",
+            "link": "https://www.psymeetsocial.com/psicologo/francisco-elexandre-barboza-de-freitas",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Ang\u00fastia",
+                "Racismo",
+                "Suic\u00eddio",
+                "Estresse",
+                "Identidade",
+                "Relacionamentos",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Jos\u00e9 Francisco Leite",
+            "telefone": "(43) 99115-9573",
+            "link": "https://www.psymeetsocial.com/psicologo/jose-francisco-leite",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoconhecimento",
+                "Depend\u00eancia qu\u00edmica",
+                "Depress\u00e3o",
+                "Esquizofrenia",
+                "Morte e luto"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Ana Beatriz de Medeiros Ara\u00fajo",
+            "telefone": "(84) 98601-8706",
+            "link": "https://www.psymeetsocial.com/psicologo/ana-beatriz-de-medeiros-araujo",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconfian\u00e7a",
+                "Bullying",
+                "Tristeza",
+                "Terceira idade",
+                "Adolesc\u00eancia",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Silvio Mario Neto",
+            "telefone": "(11) 99963-5060",
+            "link": "https://www.psymeetsocial.com/psicologo/silvio-mario-neto",
+            "especialidades": [
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Depress\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Autoconfian\u00e7a",
+                "V\u00edcios",
+                "Traumas"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Rafael Morais Piccinin",
+            "telefone": "(19) 98271-3296",
+            "link": "https://www.psymeetsocial.com/psicologo/rafael-morais-piccinin",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Automutila\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Ang\u00fastia",
+                "Depress\u00e3o",
+                "Tristeza",
+                "Morte e luto",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Nat\u00e1lia Amendoeira Lopes",
+            "telefone": "(37) 99839-4641",
+            "link": "https://www.psymeetsocial.com/psicologo/natalia-amendoeira-lopes",
+            "especialidades": [
+                "Infertilidade/Esterilidade",
+                "Gravidez",
+                "Ado\u00e7\u00e3o de filhos",
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoestima",
+                "Autoconfian\u00e7a",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Matheus Paiva Lacerda do Nascimento",
+            "telefone": "(11) 97200-2924",
+            "link": "https://www.psymeetsocial.com/psicologo/matheus-paiva-lacerda-do-nascimento",
+            "especialidades": [
+                "Depress\u00e3o",
+                "Acompanhamento psicol\u00f3gico",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Estresse",
+                "Relacionamento abusivo",
+                "V\u00edcios"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Malquias Cilian Gabriel da Silva",
+            "telefone": "(11) 91913-3514",
+            "link": "https://www.psymeetsocial.com/psicologo/malquias-cilian-gabriel-da-silva",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Branca Estrella Cardoso",
+            "telefone": "(31) 99686-0149",
+            "link": "https://www.psymeetsocial.com/psicologo/branca-estrella-cardoso",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Conflitos amorosos",
+                "Culpa",
+                "Assertividade",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Laurismar Portela",
+            "telefone": "(21) 98154-3892",
+            "link": "https://www.psymeetsocial.com/psicologo/laurismar-portela",
+            "especialidades": [
+                "Autoaceita\u00e7\u00e3o",
+                "Ang\u00fastia",
+                "Autoconfian\u00e7a",
+                "Assertividade",
+                "Autocuidado",
+                "Frustra\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Amanda Stefanie Adra Landro",
+            "telefone": "(14) 99847-9882",
+            "link": "https://www.psymeetsocial.com/psicologo/amanda-stefanie-adra-landro",
+            "especialidades": [
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoestima",
+                "Autoconhecimento",
+                "Conflitos familiares",
+                "Depress\u00e3o",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Mylena Kelly Lima da Silva",
+            "telefone": "(83) 99881-8003",
+            "link": "https://www.psymeetsocial.com/psicologo/mylena-kelly-lima-da-silva",
+            "especialidades": [
+                "Ansiedade",
+                "Autoestima",
+                "Inseguran\u00e7a",
+                "Acompanhamento psicol\u00f3gico",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH",
+                "Traumas",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Cristiane Yoshie Iwasse",
+            "telefone": "(44) 99985-6467",
+            "link": "https://www.psymeetsocial.com/psicologo/cristiane-yoshie-iwasse",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Autocuidado",
+                "Autoestima",
+                "Acompanhamento psicol\u00f3gico",
+                "Autoconhecimento",
+                "Sa\u00fade mental",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tayara Alves",
+            "telefone": "(13) 92000-4905",
+            "link": "https://www.psymeetsocial.com/psicologo/tayara-alves",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocuidado",
+                "Autoconfian\u00e7a",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Ana Carolina de Oliveira",
+            "telefone": "(19) 99703-1684",
+            "link": "https://www.psymeetsocial.com/psicologo/ana-carolina-de-oliveira-1",
+            "especialidades": [
+                "Transtornos de Ansiedade",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Transtorno de P\u00e2nico ou S\u00edndrome do P\u00e2nico",
+                "Fobia Social",
+                "Fobias",
+                "Autocobran\u00e7a",
+                "Autoestima",
+                "Emagrecimento"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Milena Ribeiro de Freitas",
+            "telefone": "(18) 99757-7147",
+            "link": "https://www.psymeetsocial.com/psicologo/milena-ribeiro-de-freitas",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Yuri de Andrade Wu",
+            "telefone": "(81) 99574-9052",
+            "link": "https://www.psymeetsocial.com/psicologo/yuri-de-andrade-wu",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Abuso Infantil",
+                "Ang\u00fastia",
+                "Depend\u00eancia em jogos",
+                "Morte e luto",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Ansiedade",
+                "Depress\u00e3o"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Andr\u00e9 Luis Genari",
+            "telefone": "(17) 98810-2223",
+            "link": "https://www.psymeetsocial.com/psicologo/andre-luis-genari",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Traumas",
+                "Estresse",
+                "V\u00edcios"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Denise Ferreira Rangel",
+            "telefone": "(15) 99744-8383",
+            "link": "https://www.psymeetsocial.com/psicologo/denise-ferreira-rangel",
+            "especialidades": [
+                "Agress\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Bulimia",
+                "Anorexia nervosa",
+                "Casamento",
+                "Ci\u00fames",
+                "Compuls\u00e3o alimentar",
+                "Conflitos amorosos",
+                "Depend\u00eancia emocional"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Giulianno Bonfiglioli",
+            "telefone": "(16) 99777-4284",
+            "link": "https://www.psymeetsocial.com/psicologo/giulianno-bonfiglioli",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Estresse",
+                "Sa\u00fade mental",
+                "Relacionamentos",
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Autoestima",
+                "Fobia Social",
+                "Autoconhecimento"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Tiago de Oliveira da Silva",
+            "telefone": "(21) 97709-8468",
+            "link": "https://www.psymeetsocial.com/psicologo/tiago-de-oliveira-da-silva",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoconfian\u00e7a",
+                "Sa\u00fade mental",
+                "Estresse",
+                "Ang\u00fastia",
+                "Empoderamento",
+                "Morte e luto",
+                "Suic\u00eddio"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Osvaldo Vila Nova",
+            "telefone": "(82) 98836-8687",
+            "link": "https://www.psymeetsocial.com/psicologo/osvaldo-vila-nova",
+            "especialidades": [
+                "Conflitos legais",
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoconfian\u00e7a",
+                "Autoestima",
+                "Conflitos familiares"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Heloisa Helena Henriques",
+            "telefone": "(47) 98448-3513",
+            "link": "https://www.psymeetsocial.com/psicologo/heloisa-helena-henriques",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Agressividade",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Borderline",
+                "Depress\u00e3o",
+                "Compuls\u00f5es",
+                "Fobias",
+                "Envelhecimento"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Sabrina Guntzel",
+            "telefone": "(51) 99175-5962",
+            "link": "https://www.psymeetsocial.com/psicologo/sabrina-guntzel",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "S\u00f4nia Maria Alencar",
+            "telefone": "(86) 99962-0379",
+            "link": "https://www.psymeetsocial.com/psicologo/sonia-maria-alencar",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Jean Douglas Cordeiro Pereira",
+            "telefone": "(19) 98252-0900",
+            "link": "https://www.psymeetsocial.com/psicologo/jean-douglas-cordeiro-pereira",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Desenvolvimento pessoal",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Inf\u00e2ncia",
+                "LGBTQIA+",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Autoestima",
+                "Depend\u00eancia emocional"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Rodrigo de S\u00e1 e Silva",
+            "telefone": "(11) 99848-3610",
+            "link": "https://www.psymeetsocial.com/psicologo/rodrigo-de-sa-e-silva",
+            "especialidades": [
+                "Ansiedade",
+                "Altera\u00e7\u00f5es de humor",
+                "Acompanhamento psicol\u00f3gico",
+                "Agressividade",
+                "Ang\u00fastia",
+                "Relacionamento abusivo",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Morte e luto"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Cl\u00e1udia Lisboa de Almeida",
+            "telefone": "(21) 99468-7976",
+            "link": "https://www.psymeetsocial.com/psicologo/claudia-lisboa-de-almeida",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Mar\u00edlia Fernanda dos Santos Almeida",
+            "telefone": "(92) 99205-1920",
+            "link": "https://www.psymeetsocial.com/psicologo/marilia-fernanda-dos-santos-almeida",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Simone Gon\u00e7alves Mendes Jacintho",
+            "telefone": "(21) 97584-3720",
+            "link": "https://www.psymeetsocial.com/psicologo/simone-goncalves-mendes-jacintho",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoconhecimento",
+                "Ass\u00e9dio moral",
+                "Bullying",
+                "Culpa",
+                "C\u00e2ncer",
+                "Doen\u00e7as cr\u00f4nicas",
+                "Tristeza",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "David Rodrigues Pires Maciel",
+            "telefone": "(61) 99142-8090",
+            "link": "https://www.psymeetsocial.com/psicologo/david-rodrigues-pires-maciel",
+            "especialidades": [
+                "Ansiedade",
+                "LGBTQIA+",
+                "Sexualidade",
+                "HIV",
+                "Depress\u00e3o",
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Traumas",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Josiane Aleixo",
+            "telefone": "(42) 99830-3111",
+            "link": "https://www.psymeetsocial.com/psicologo/josiane-aleixo",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Agorafobia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocuidado",
+                "Culpa",
+                "Relacionamentos",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Emma Carolina Ostrowski",
+            "telefone": "(41) 98811-6893",
+            "link": "https://www.psymeetsocial.com/psicologo/emma-carolina-ostrowski",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Altera\u00e7\u00f5es de humor",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autocuidado",
+                "Autoestima",
+                "Depend\u00eancia emocional",
+                "Traumas",
+                "Conflitos amorosos",
+                "Habilidades Sociais"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Rafael Flores Garcia",
+            "telefone": "(51) 98474-0079",
+            "link": "https://www.psymeetsocial.com/psicologo/rafael-flores-garcia",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Bullying",
+                "Borderline",
+                "Estresse p\u00f3s-traum\u00e1tico",
+                "Depress\u00e3o",
+                "Estresse",
+                "S\u00edndrome de Burnout"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "J\u00e9ssica Bernardo Silva",
+            "telefone": "(85) 98632-9572",
+            "link": "https://www.psymeetsocial.com/psicologo/jessica-bernardo-silva",
+            "especialidades": [
+                "Altera\u00e7\u00f5es de humor",
+                "Adolesc\u00eancia",
+                "Autoaceita\u00e7\u00e3o",
+                "Ansiedade",
+                "Autocuidado",
+                "Doen\u00e7as cr\u00f4nicas",
+                "Estresse p\u00f3s-traum\u00e1tico",
+                "Culpa",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Nayara da Costa Soares",
+            "telefone": "(17) 98157-4322",
+            "link": "https://www.psymeetsocial.com/psicologo/nayara-da-costa-soares",
+            "especialidades": [
+                "Relacionamentos",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamento abusivo",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Diogo Silva de Paiva",
+            "telefone": "(35) 98873-4115",
+            "link": "https://www.psymeetsocial.com/psicologo/diogo-silva-de-paiva",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Autoaceita\u00e7\u00e3o",
+                "Conflitos familiares",
+                "Compuls\u00f5es",
+                "Frustra\u00e7\u00e3o",
+                "V\u00edcios",
+                "Transtorno por Uso de \u00c1lcool",
+                "Depend\u00eancia qu\u00edmica",
+                "Desenvolvimento pessoal",
+                "Depress\u00e3o"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Paula Gon\u00e7alves Vitorino Monteiro",
+            "telefone": "(83) 99865-0376",
+            "link": "https://www.psymeetsocial.com/psicologo/paula-goncalves-vitorino-monteiro",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Altera\u00e7\u00f5es de humor",
+                "Traumas",
+                "Autoconhecimento",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocuidado"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Filipe Eduardo de Oliveira Martins",
+            "telefone": "(19) 99956-7059",
+            "link": "https://www.psymeetsocial.com/psicologo/filipe-eduardo-de-oliveira-martins",
+            "especialidades": [
+                "Ansiedade",
+                "Assertividade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocobran\u00e7a",
+                "Autoconhecimento",
+                "Conflitos amorosos",
+                "Fobia Social",
+                "Fobias",
+                "Hipocondria",
+                "Transtornos de Ansiedade"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Rosimeire de Souza Pereira",
+            "telefone": "(31) 98556-5892",
+            "link": "https://www.psymeetsocial.com/psicologo/rosimeire-de-souza-pereira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Depress\u00e3o",
+                "LGBTQIA+",
+                "Desenvolvimento pessoal",
+                "Viol\u00eancia dom\u00e9stica",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tatiana Nascimento Oliveira",
+            "telefone": "(21) 96907-2677",
+            "link": "https://www.psymeetsocial.com/psicologo/tatiana-nascimento-oliveira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Culpa",
+                "Viol\u00eancia sexual",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Autoestima",
+                "Fam\u00edlia",
+                "Sexualidade",
+                "Viol\u00eancia dom\u00e9stica"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Camila Tavares Melo",
+            "telefone": "(37) 98804-4117",
+            "link": "https://www.psymeetsocial.com/psicologo/camila-tavares-melo",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Conflitos familiares",
+                "Morte e luto",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Relacionamentos",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Larissa Borges Tavares da Costa",
+            "telefone": "(21) 98838-0934",
+            "link": "https://www.psymeetsocial.com/psicologo/larissa-borges-tavares-da-costa",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Depress\u00e3o",
+                "Autoconhecimento",
+                "Compuls\u00f5es",
+                "Autismo",
+                "S\u00edndrome do P\u00e2nico",
+                "S\u00edndrome de Burnout",
+                "Transtorno Bipolar",
+                "Transtorno Obsessivo Compulsivo - TOC"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Kenia Aparecida Marcelino Gomes",
+            "telefone": "(16) 99258-2036",
+            "link": "https://www.psymeetsocial.com/psicologo/kenia-aparecida-marcelino-gomes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Conflitos familiares",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Suic\u00eddio",
+                "Transtorno de D\u00e9ficit de Aten\u00e7\u00e3o/Hiperatividade - TDA/TDAH",
+                "Transtornos Psiqui\u00e1tricos",
+                "Viol\u00eancia sexual"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Diene Costa",
+            "telefone": "(18) 99671-8020",
+            "link": "https://www.psymeetsocial.com/psicologo/diene-costa",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Autoconhecimento",
+                "Autoestima",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Altera\u00e7\u00f5es de humor",
+                "Procrastina\u00e7\u00e3o",
+                "V\u00edcios"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Taise Silva Santos de Paula",
+            "telefone": "(71) 98474-2366",
+            "link": "https://www.psymeetsocial.com/psicologo/taise-silva-santos-de-paula",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Compuls\u00e3o por compras",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocobran\u00e7a",
+                "Autonomia",
+                "Autoestima",
+                "Depress\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Juliana Maria Rodrigues da Silva dos Santos",
+            "telefone": "(61) 99995-0221",
+            "link": "https://www.psymeetsocial.com/psicologo/juliana-maria-rodrigues-da-silva-dos-santos",
+            "especialidades": [
+                "Conflitos familiares",
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Aposentadoria",
+                "Casais",
+                "Fam\u00edlia",
+                "Neuropsicologia do Idoso",
+                "Terceira idade",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Jo\u00e3o Raphael Couto Melo",
+            "telefone": "(32) 99198-5477",
+            "link": "https://www.psymeetsocial.com/psicologo/joao-raphael-couto-melo",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Heide Emanuelle Alves Lima",
+            "telefone": "(34) 99835-2187",
+            "link": "https://www.psymeetsocial.com/psicologo/heide-emanuelle-alves-lima",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Pamela Teruko da Silva Oku",
+            "telefone": "(11) 95499-3008",
+            "link": "https://www.psymeetsocial.com/psicologo/pamela-teruko-da-silva-oku",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Baby Blues",
+                "Depend\u00eancia emocional",
+                "Desenvolvimento pessoal",
+                "Gravidez",
+                "Intelig\u00eancia emocional"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Melquisedeque Oliveira de Castro",
+            "telefone": "(32) 98452-8608",
+            "link": "https://www.psymeetsocial.com/psicologo/melquisedeque-oliveira-de-castro",
+            "especialidades": [
+                "Agress\u00e3o",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Intelig\u00eancia emocional",
+                "LGBTQIA+",
+                "Tratamento de mem\u00f3ria",
+                "Problemas financeiros",
+                "Fam\u00edlia",
+                "Viol\u00eancia sexual",
+                "Transtorno Obsessivo Compulsivo - TOC"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Carla Carine Pereira Oliveira",
+            "telefone": "(74) 99952-8332",
+            "link": "https://www.psymeetsocial.com/psicologo/carla-carine-pereira-oliveira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoconhecimento",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Relacionamento abusivo",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tamires Maria Neves Brand\u00e3o",
+            "telefone": "(24) 99985-3033",
+            "link": "https://www.psymeetsocial.com/psicologo/tamires-maria-neves-brandao",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Acompanhamento psicol\u00f3gico",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoestima",
+                "Relacionamentos",
+                "V\u00edcios"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Daniela Pe\u00f1o Paiva",
+            "telefone": "(51) 98197-9667",
+            "link": "https://www.psymeetsocial.com/psicologo/daniela-peno-paiva",
+            "especialidades": [
+                "LGBTQIA+",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autocuidado",
+                "Autoconhecimento",
+                "Depress\u00e3o",
+                "Relacionamento abusivo",
+                "Depend\u00eancia emocional",
+                "Identidade de g\u00eanero",
+                "Sexualidade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Jo\u00e3o Vitor In\u00e1cio Abreu",
+            "telefone": "(85) 99196-6978",
+            "link": "https://www.psymeetsocial.com/psicologo/joao-vitor-inacio-abreu",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Aprendizagem",
+                "Relacionamentos",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Traumas",
+                "Autoconfian\u00e7a"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Jaqueline Carvalho Silva",
+            "telefone": "(77) 99194-1205",
+            "link": "https://www.psymeetsocial.com/psicologo/jaqueline-carvalho-silva",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoestima",
+                "Autoaceita\u00e7\u00e3o",
+                "Depress\u00e3o",
+                "Raiva",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Guilherme Nogueira Alves",
+            "telefone": "(31) 98378-1843",
+            "link": "https://www.psymeetsocial.com/psicologo/guilherme-nogueira-alves",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Depend\u00eancia qu\u00edmica",
+                "Fobias",
+                "Sa\u00fade mental",
+                "Transtornos de Ansiedade",
+                "Terceira idade",
+                "Isolamento social",
+                "Psicologia jur\u00eddica"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Gabriel Ara\u00fajo Rodrigues",
+            "telefone": "(86) 99809-3274",
+            "link": "https://www.psymeetsocial.com/psicologo/gabriel-araujo-rodrigues",
+            "especialidades": [
+                "Tanatologia",
+                "Ansiedade",
+                "Acompanhamento psicol\u00f3gico",
+                "Autismo",
+                "Autoestima",
+                "Autocuidado",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Andr\u00e9 do Amaral",
+            "telefone": "(11) 99358-9086",
+            "link": "https://www.psymeetsocial.com/psicologo/andre-do-amaral",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Borderline",
+                "Casais",
+                "Conflitos amorosos",
+                "Depress\u00e3o",
+                "Conflitos familiares",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Sara Alves Soares",
+            "telefone": "(41) 99846-3524",
+            "link": "https://www.psymeetsocial.com/psicologo/sara-alves-soares",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Reabilita\u00e7\u00e3o neuropsicol\u00f3gica",
+                "Altera\u00e7\u00f5es de humor",
+                "Aprendizagem",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocobran\u00e7a",
+                "Autoconhecimento",
+                "Conflitos familiares",
+                "Depress\u00e3o",
+                "Frustra\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Wesley Luiz Morielo Rosa",
+            "telefone": "(21) 98034-6493",
+            "link": "https://www.psymeetsocial.com/psicologo/wesley-luiz-morielo-rosa",
+            "especialidades": [
+                "Transtornos de Ansiedade",
+                "Fobia Social",
+                "Depress\u00e3o",
+                "Autoestima",
+                "Compuls\u00e3o por compras",
+                "Ansiedade",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Estresse",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Elis Regina Pereira Amorim Mendes",
+            "telefone": "(21) 96592-2711",
+            "link": "https://www.psymeetsocial.com/psicologo/elis-regina-pereira-amorim-mendes",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Milena Loren Rodrigues Pereira",
+            "telefone": "(31) 99559-7780",
+            "link": "https://www.psymeetsocial.com/psicologo/milena-loren-rodrigues-pereira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autocuidado",
+                "Autoestima",
+                "Autonomia",
+                "Depress\u00e3o",
+                "Habilidades Sociais",
+                "Intelig\u00eancia emocional"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Leticia Menezes Martins Fran\u00e7a",
+            "telefone": "(22) 99873-6665",
+            "link": "https://www.psymeetsocial.com/psicologo/leticia-menezes-martins-franca",
+            "especialidades": [
+                "Ansiedade",
+                "Acompanhamento psicol\u00f3gico",
+                "Autoaceita\u00e7\u00e3o",
+                "Depress\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Tristeza",
+                "Relacionamentos",
+                "V\u00edcios",
+                "Traumas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tayse Maria Gon\u00e7alves Nascimento",
+            "telefone": "(86) 99408-1178",
+            "link": "https://www.psymeetsocial.com/psicologo/tayse-maria-goncalves-nascimento",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Autoconhecimento",
+                "Automutila\u00e7\u00e3o",
+                "LGBTQIA+",
+                "Tanatologia",
+                "Medita\u00e7\u00e3o",
+                "Orienta\u00e7\u00e3o profissional",
+                "Suic\u00eddio",
+                "Ansiedade",
+                "Depress\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Kelly Rany Lopes Lima",
+            "telefone": "(88) 98821-5326",
+            "link": "https://www.psymeetsocial.com/psicologo/kelly-rany-lopes-lima",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Agress\u00e3o",
+                "Ansiedade",
+                "Altera\u00e7\u00f5es de humor",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Traumas",
+                "Estresse",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Danieli Cristine Vilela",
+            "telefone": "(12) 98128-1765",
+            "link": "https://www.psymeetsocial.com/psicologo/danieli-cristine-vilela",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Autoconhecimento",
+                "Desenvolvimento pessoal",
+                "Educa\u00e7\u00e3o escolar",
+                "Relacionamentos",
+                "Orienta\u00e7\u00e3o de Educadores",
+                "Orienta\u00e7\u00e3o de Pais",
+                "Ansiedade",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Keila Eliane Dur\u00e3es Pereira",
+            "telefone": "(38) 99862-9817",
+            "link": "https://www.psymeetsocial.com/psicologo/keila-eliane-duraes-pereira",
+            "especialidades": [
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoestima",
+                "Depress\u00e3o",
+                "Estresse",
+                "LGBTQIA+",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Camila Moratori Barreto",
+            "telefone": "(32) 99107-1021",
+            "link": "https://www.psymeetsocial.com/psicologo/camila-moratori-barreto",
+            "especialidades": [
+                "Sa\u00fade mental",
+                "Adolesc\u00eancia",
+                "Agressividade",
+                "Ang\u00fastia",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Autocuidado",
+                "Borderline",
+                "Psicologia jur\u00eddica",
+                "Ansiedade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Matheus Mayerhofer Pinheiro",
+            "telefone": "(22) 99757-0152",
+            "link": "https://www.psymeetsocial.com/psicologo/matheus-mayerhofer-pinheiro",
+            "especialidades": [
+                "Bullying",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Estresse",
+                "Conflitos familiares",
+                "Autoconhecimento",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Jonathan Bastos Guimar\u00e3es",
+            "telefone": "(11) 99006-5995",
+            "link": "https://www.psymeetsocial.com/psicologo/jonathan-bastos-guimaraes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Agressividade",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Autoestima",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Amanda Santos da Silva",
+            "telefone": "(81) 99967-8394",
+            "link": "https://www.psymeetsocial.com/psicologo/amanda-santos-da-silva",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Julie Anne Damasceno de Araujo Gripp",
+            "telefone": "(22) 99993-0236",
+            "link": "https://www.psymeetsocial.com/psicologo/julie-anne-damasceno-de-araujo-gripp",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Klebson Ricardo do Nascimento Silva",
+            "telefone": "(81) 98395-1235",
+            "link": "https://www.psymeetsocial.com/psicologo/klebson-ricardo-do-nascimento-silva",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autismo",
+                "Autoestima",
+                "Compuls\u00f5es",
+                "Conflitos amorosos",
+                "Conflitos familiares",
+                "Depend\u00eancia emocional",
+                "Depress\u00e3o",
+                "LGBTQIA+"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Pedro Henrique Levi Fernandes",
+            "telefone": "(61) 99951-1258",
+            "link": "https://www.psymeetsocial.com/psicologo/pedro-henrique-levi-fernandes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Avalia\u00e7\u00e3o neuropsicol\u00f3gica",
+                "Compuls\u00f5es",
+                "Depress\u00e3o",
+                "Compuls\u00e3o alimentar",
+                "Obesidade"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Patr\u00edcia Barbosa Duarte de Souza",
+            "telefone": "(21) 99932-0793",
+            "link": "https://www.psymeetsocial.com/psicologo/patricia-barbosa-duarte-de-souza",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Gustavo da Silva Reis",
+            "telefone": "(44) 99727-4044",
+            "link": "https://www.psymeetsocial.com/psicologo/gustavo-da-silva-reis",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Relacionamentos",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Compuls\u00f5es",
+                "Fobias",
+                "Inseguran\u00e7a",
+                "Traumas",
+                "Depend\u00eancia emocional",
+                "Autocuidado"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Dayana Santos Medeiros Quirino",
+            "telefone": "(38) 99119-9010",
+            "link": "https://www.psymeetsocial.com/psicologo/dayana-santos-medeiros-quirino",
+            "especialidades": [
+                "Sa\u00fade mental",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Ana Clara Ferraz Santos",
+            "telefone": "(61) 98282-5954",
+            "link": "https://www.psymeetsocial.com/psicologo/ana-clara-ferraz-santos",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Autoconhecimento",
+                "Ansiedade",
+                "Depend\u00eancia emocional",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Sirlene Figueiredo Matos",
+            "telefone": "(71) 98939-1203",
+            "link": "https://www.psymeetsocial.com/psicologo/sirlene-figueiredo-matos",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Morte e luto",
+                "Pessoas com defici\u00eancia - PCD",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Alana Vieira Foli",
+            "telefone": "(19) 99959-1289",
+            "link": "https://www.psymeetsocial.com/psicologo/alana-vieira-foli",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Depend\u00eancia emocional",
+                "Intelig\u00eancia emocional",
+                "Tristeza",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lahisa Lica Dias de Freitas",
+            "telefone": "(81) 98855-4509",
+            "link": "https://www.psymeetsocial.com/psicologo/lahisa-lica-dias-de-freitas",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "S\u00edndrome de Burnout",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Traumas",
+                "Relacionamentos",
+                "Autoconfian\u00e7a"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Juliana Albuquerque",
+            "telefone": "(88) 99782-3321",
+            "link": "https://www.psymeetsocial.com/psicologo/juliana-albuquerque",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Autocuidado",
+                "Ansiedade",
+                "Autoconfian\u00e7a",
+                "Autocobran\u00e7a",
+                "Autoestima",
+                "Depress\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Karina Ribeiro Batista",
+            "telefone": "(32) 99934-0801",
+            "link": "https://www.psymeetsocial.com/psicologo/karina-ribeiro-batista",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Medos",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Estresse",
+                "Relacionamentos",
+                "V\u00edcios"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Guilherme Vieira Pinto",
+            "telefone": "(66) 99253-6509",
+            "link": "https://www.psymeetsocial.com/psicologo/guilherme-vieira-pinto",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Autoestima",
+                "Depress\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Morte e luto",
+                "Estresse",
+                "Relacionamentos"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Jo\u00e3o Pedro Viola",
+            "telefone": "(21) 99428-3085",
+            "link": "https://www.psymeetsocial.com/psicologo/joao-pedro-viola",
+            "especialidades": [
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Depress\u00e3o",
+                "Adolesc\u00eancia",
+                "Obsess\u00e3o",
+                "Tristeza",
+                "Traumas",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Anna Caroline Souza da Silva",
+            "telefone": "(21) 97034-1309",
+            "link": "https://www.psymeetsocial.com/psicologo/anna-caroline-souza-da-silva",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Autocuidado",
+                "Habilidades Sociais",
+                "Envelhecimento",
+                "Incertezas",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lucimara de Oliveira Gon\u00e7alves",
+            "telefone": "(12) 98850-5480",
+            "link": "https://www.psymeetsocial.com/psicologo/lucimara-de-oliveira-goncalves",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autoestima",
+                "Borderline",
+                "Depress\u00e3o",
+                "Esquizofrenia",
+                "Assertividade",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Giulliana Lage",
+            "telefone": "(31) 98733-7200",
+            "link": "https://www.psymeetsocial.com/psicologo/giulliana-lage",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Ass\u00e9dio moral",
+                "Autoconhecimento",
+                "Autonomia",
+                "Cleptomania",
+                "Conflitos amorosos",
+                "Inseguran\u00e7a"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Fernanda Gibram Mauro",
+            "telefone": "(11) 94469-3955",
+            "link": "https://www.psymeetsocial.com/psicologo/fernanda-gibram-mauro",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Autoconhecimento",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Autoconfian\u00e7a",
+                "Empoderamento",
+                "Gravidez",
+                "Puerp\u00e9rio",
+                "Maternidade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Eduardo Berroe\u00e7o",
+            "telefone": "(19) 98373-7576",
+            "link": "https://www.psymeetsocial.com/psicologo/eduardo-berroeco",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "V\u00edcios",
+                "Agressividade"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Martha Lodi",
+            "telefone": "(27) 99717-0170",
+            "link": "https://www.psymeetsocial.com/psicologo/martha-lodi",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Autoestima",
+                "Depend\u00eancia emocional",
+                "Depress\u00e3o",
+                "Envelhecimento",
+                "Procrastina\u00e7\u00e3o",
+                "Fobia Social"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Stela Cornelio de Arruda",
+            "telefone": "(81) 99873-1232",
+            "link": "https://www.psymeetsocial.com/psicologo/stela-cornelio-de-arruda",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "LGBTQIA+",
+                "Tristeza",
+                "Morte e luto",
+                "Altera\u00e7\u00f5es de humor",
+                "Procrastina\u00e7\u00e3o",
+                "V\u00edcios",
+                "Relacionamentos",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Milena da Silva Rodrigues",
+            "telefone": "(11) 94592-9233",
+            "link": "https://www.psymeetsocial.com/psicologo/milena-da-silva-rodrigues",
+            "especialidades": [
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Autoconhecimento",
+                "Tristeza",
+                "Sa\u00fade mental",
+                "Procrastina\u00e7\u00e3o",
+                "Traumas",
+                "Relacionamentos",
+                "Estresse",
+                "Autoestima"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Jussara Rosa Gon\u00e7alves",
+            "telefone": "(31) 99247-3888",
+            "link": "https://www.psymeetsocial.com/psicologo/jussara-rosa-goncalves",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Orienta\u00e7\u00e3o profissional",
+                "Terceira idade",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Autoconfian\u00e7a"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Ana Carolina Durante da Rocha",
+            "telefone": "(21) 96837-5454",
+            "link": "https://www.psymeetsocial.com/psicologo/ana-carolina-durante-da-rocha",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Luci Ramos Vieira Santos",
+            "telefone": "(11) 99023-4175",
+            "link": "https://www.psymeetsocial.com/psicologo/luci-ramos-vieira-santos",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "L\u00facia Helena Nadayoshi Bonilha",
+            "telefone": "(18) 99612-3897",
+            "link": "https://www.psymeetsocial.com/psicologo/lucia-helena-nadayoshi-bonilha",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Antonia Claudin\u00e9ia Vieira Oliveira",
+            "telefone": "(85) 99937-8318",
+            "link": "https://www.psymeetsocial.com/psicologo/antonia-claudineia-vieira-oliveira",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autoestima",
+                "Depress\u00e3o",
+                "Conflitos amorosos",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lucinea Moura de Souza Andrade",
+            "telefone": "(71) 99934-7623",
+            "link": "https://www.psymeetsocial.com/psicologo/lucinea-moura-de-souza-andrade",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Acompanhamento psicol\u00f3gico",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocobran\u00e7a",
+                "Depress\u00e3o",
+                "Compuls\u00f5es",
+                "Habilidades Sociais",
+                "Estresse",
+                "Medos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lucas Albano",
+            "telefone": "(88) 99314-7160",
+            "link": "https://www.psymeetsocial.com/psicologo/lucas-albano",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Daniele Brito de Oliveira",
+            "telefone": "(51) 99777-2855",
+            "link": "https://www.psymeetsocial.com/psicologo/daniele-brito-de-oliveira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Sa\u00fade mental",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Soeli Lima",
+            "telefone": "(11) 99793-5988",
+            "link": "https://www.psymeetsocial.com/psicologo/soeli-lima",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Antonio Breno Gomes de Negreiros",
+            "telefone": "(88) 99625-1072",
+            "link": "https://www.psymeetsocial.com/psicologo/antonio-breno-gomes-de-negreiros",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Fobia Social",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocuidado",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Relacionamentos"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Ana Karolina Silva Santos",
+            "telefone": "(73) 99900-7840",
+            "link": "https://www.psymeetsocial.com/psicologo/ana-karolina-silva-santos",
+            "especialidades": [
+                "Autocobran\u00e7a",
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Fobias",
+                "Estresse",
+                "Traumas",
+                "Relacionamento abusivo",
+                "Intelig\u00eancia emocional",
+                "Automutila\u00e7\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Mathews Lima Ribeiro",
+            "telefone": "(21) 97369-5394",
+            "link": "https://www.psymeetsocial.com/psicologo/mathews-lima-ribeiro",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Compuls\u00f5es",
+                "Depend\u00eancia qu\u00edmica",
+                "Depress\u00e3o",
+                "Medos",
+                "Sexualidade",
+                "Relacionamentos",
+                "Identidade de g\u00eanero",
+                "Orienta\u00e7\u00e3o sexual"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Fernanda Bager",
+            "telefone": "(53) 98115-5568",
+            "link": "https://www.psymeetsocial.com/psicologo/fernanda-bager",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ang\u00fastia",
+                "Assertividade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Ci\u00fames",
+                "Depress\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Adriana Andr\u00e9 de Oliveira",
+            "telefone": "(21) 99647-2962",
+            "link": "https://www.psymeetsocial.com/psicologo/adriana-andre-de-oliveira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Procrastina\u00e7\u00e3o",
+                "Relacionamento abusivo",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Vanessa Possamai Fernandes",
+            "telefone": "(47) 98838-4307",
+            "link": "https://www.psymeetsocial.com/psicologo/vanessa-possamai-fernandes",
+            "especialidades": [
+                "Ansiedade",
+                "Autoconhecimento",
+                "Endividamento",
+                "Habilidades Sociais",
+                "Intelig\u00eancia emocional",
+                "Transtorno de Ansiedade Generalizada - TAG",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Depress\u00e3o"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Thiago Guerra",
+            "telefone": "(11) 95356-1072",
+            "link": "https://www.psymeetsocial.com/psicologo/thiago-guerra",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Autoaceita\u00e7\u00e3o",
+                "Autocobran\u00e7a",
+                "Autoconhecimento",
+                "Autonomia",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Traumas"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Tha\u00eds Rodrigues dos Santos",
+            "telefone": "(34) 99278-9889",
+            "link": "https://www.psymeetsocial.com/psicologo/thais-rodrigues-dos-santos",
+            "especialidades": [
+                "Sa\u00fade mental",
+                "Acompanhamento psicol\u00f3gico",
+                "Autoconhecimento",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Traumas",
+                "Relacionamentos",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Luiza Noronha de Melo",
+            "telefone": "(31) 99998-4109",
+            "link": "https://www.psymeetsocial.com/psicologo/luiza-noronha-de-melo",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Transtorno de Personalidade",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoestima",
+                "Autoconfian\u00e7a",
+                "Relacionamentos",
+                "Estresse",
+                "Ansiedade",
+                "Transtornos Alimentares",
+                "Autocuidado"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Graziela Andrade Fernandes",
+            "telefone": "(31) 97570-1076",
+            "link": "https://www.psymeetsocial.com/psicologo/graziela-andrade-fernandes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Relacionamento abusivo"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Val\u00e9ria Monteiro Lawrenz",
+            "telefone": "(54) 99260-0743",
+            "link": "https://www.psymeetsocial.com/psicologo/valeria-monteiro-lawrenz",
+            "especialidades": [
+                "Ansiedade",
+                "Depend\u00eancia emocional",
+                "Depress\u00e3o",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Traumas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tain\u00e1 Cristina Basso Garcia",
+            "telefone": "(12) 98851-2027",
+            "link": "https://www.psymeetsocial.com/psicologo/taina-cristina-basso-garcia",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Eodete Aparecida Pereira Magalh\u00e3es",
+            "telefone": "(31) 98806-9800",
+            "link": "https://www.psymeetsocial.com/psicologo/eodete-aparecida-pereira-magalhaes",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Larissa Maria da Silva",
+            "telefone": "(16) 99426-1266",
+            "link": "https://www.psymeetsocial.com/psicologo/larissa-maria-da-silva",
+            "especialidades": [
+                "Autoconhecimento",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Ana Karolina Batista Pereira",
+            "telefone": "(85) 99210-1256",
+            "link": "https://www.psymeetsocial.com/psicologo/ana-karolina-batista-pereira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Autoaceita\u00e7\u00e3o",
+                "C\u00e2ncer",
+                "Casamento",
+                "Conflitos amorosos",
+                "Cuidados paliativos",
+                "Depend\u00eancia emocional",
+                "Timidez",
+                "Terceira idade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Renata Joicy Pessoa Rodrigues",
+            "telefone": "(65) 9287-4035",
+            "link": "https://www.psymeetsocial.com/psicologo/renata-joicy-pessoa-rodrigues",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tiago Rockenbach",
+            "telefone": "(41) 99894-4809",
+            "link": "https://www.psymeetsocial.com/psicologo/tiago-rockenbach",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconfian\u00e7a",
+                "Autocuidado",
+                "Autoestima",
+                "LGBTQIA+"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Fernanda Silva Lima",
+            "telefone": "(88) 99972-2231",
+            "link": "https://www.psymeetsocial.com/psicologo/fernanda-silva-lima",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamento abusivo",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Silvia Marini Colonetti",
+            "telefone": "(46) 99980-3292",
+            "link": "https://www.psymeetsocial.com/psicologo/silvia-marini-colonetti",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Assertividade",
+                "Autoconhecimento",
+                "Autonomia",
+                "Cuidados paliativos",
+                "Habilidades Sociais",
+                "Orienta\u00e7\u00e3o de Pais",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Regina Guimar\u00e3es Garreto",
+            "telefone": "(98) 97026-8017",
+            "link": "https://www.psymeetsocial.com/psicologo/regina-guimaraes-garreto",
+            "especialidades": [
+                "Altera\u00e7\u00f5es de humor",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Ass\u00e9dio moral",
+                "Autoconfian\u00e7a",
+                "Autoconhecimento",
+                "Autoestima",
+                "Depress\u00e3o",
+                "Desenvolvimento pessoal",
+                "Transtorno Obsessivo Compulsivo - TOC"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Yanne Schultz",
+            "telefone": "(24) 99216-9122",
+            "link": "https://www.psymeetsocial.com/psicologo/yanne-schultz",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Transtorno Depressivo Persistente - TDP (Distimia)",
+                "Fobias",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "V\u00edcios",
+                "Traumas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "F\u00e1bio Ramos Teixeira",
+            "telefone": "(16) 99790-4996",
+            "link": "https://www.psymeetsocial.com/psicologo/fabio-ramos-teixeira",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Ang\u00fastia",
+                "Conflitos familiares",
+                "Identidade de g\u00eanero",
+                "Medos",
+                "Tristeza",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Andressa Vingter Moraes",
+            "telefone": "(11) 96513-4306",
+            "link": "https://www.psymeetsocial.com/psicologo/andressa-vingter-moraes",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autocuidado",
+                "Conflitos familiares",
+                "Depend\u00eancia emocional",
+                "Depress\u00e3o",
+                "Emagrecimento",
+                "Doen\u00e7as psicossom\u00e1ticas",
+                "Sa\u00fade mental"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Thiago Ant\u00f4nio Pimenta Cunha",
+            "telefone": "(85) 98814-3778",
+            "link": "https://www.psymeetsocial.com/psicologo/thiago-antonio-pimenta-cunha",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Ci\u00fames",
+                "Conflitos amorosos",
+                "Dor",
+                "LGBTQIA+",
+                "Tristeza",
+                "Autoconfian\u00e7a",
+                "Autoestima"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "J\u00e9ssica da Silva Pereira",
+            "telefone": "(28) 99932-5591",
+            "link": "https://www.psymeetsocial.com/psicologo/jessica-da-silva-pereira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Adriano Diamarante",
+            "telefone": "(11) 95795-6411",
+            "link": "https://www.psymeetsocial.com/psicologo/adriano-diamarante",
+            "especialidades": [
+                "Traumas",
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Aposentadoria",
+                "Assessoramento acad\u00eamico",
+                "Autoconhecimento",
+                "Bullying",
+                "Autocuidado",
+                "Conflitos amorosos",
+                "Desenvolvimento de compet\u00eancias"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Marlon Vaz Ribeiro Berny",
+            "telefone": "(53) 99143-9290",
+            "link": "https://www.psymeetsocial.com/psicologo/marlon-vaz-ribeiro-berny",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Conflitos familiares",
+                "Depend\u00eancia em jogos",
+                "Depend\u00eancia qu\u00edmica",
+                "Depress\u00e3o",
+                "Fobia Social",
+                "Transtorno por Uso de \u00c1lcool",
+                "Transtorno de P\u00e2nico ou S\u00edndrome do P\u00e2nico",
+                "V\u00edcios"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "La\u00eds Viana Rodrigues",
+            "telefone": "(11) 95653-3385",
+            "link": "https://www.psymeetsocial.com/psicologo/lais-viana-rodrigues",
+            "especialidades": [
+                "Autoconhecimento",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Leonardo Peixoto",
+            "telefone": "(21) 98334-9260",
+            "link": "https://www.psymeetsocial.com/psicologo/leonardo-peixoto",
+            "especialidades": [
+                "Autoaceita\u00e7\u00e3o",
+                "Autoconhecimento",
+                "Conflitos familiares",
+                "Fam\u00edlia",
+                "Intelig\u00eancia emocional",
+                "Relacionamentos",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Autoconfian\u00e7a"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Ivana Maria Pereira",
+            "telefone": "(11) 94835-4602",
+            "link": "https://www.psymeetsocial.com/psicologo/ivana-maria-pereira",
+            "especialidades": [
+                "Ansiedade",
+                "Acompanhamento psicol\u00f3gico",
+                "Transtorno Opositor Desafiador - TOD",
+                "Terapia familiar",
+                "Relacionamentos",
+                "Estresse",
+                "Depress\u00e3o",
+                "Conflitos amorosos",
+                "S\u00edndrome de Burnout",
+                "Borderline"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Sabrina Rodrigues Benak",
+            "telefone": "(11) 99246-1202",
+            "link": "https://www.psymeetsocial.com/psicologo/sabrina-rodrigues-benak",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Educa\u00e7\u00e3o escolar",
+                "Inf\u00e2ncia",
+                "Orienta\u00e7\u00e3o de Educadores",
+                "Orienta\u00e7\u00e3o de Pais",
+                "Orienta\u00e7\u00e3o vocacional",
+                "Psicologia infantil",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Adriana Gon\u00e7alves Gaudioso",
+            "telefone": "(32) 98449-6518",
+            "link": "https://www.psymeetsocial.com/psicologo/adriana-goncalves-gaudioso",
+            "especialidades": [
+                "Autocuidado",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Traumas",
+                "V\u00edcios",
+                "Estresse",
+                "Depress\u00e3o",
+                "Autoconfian\u00e7a"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lucca Penaforte Siqueira L\u00f4bo",
+            "telefone": "(86) 99920-4000",
+            "link": "https://www.psymeetsocial.com/psicologo/lucca-penaforte-siqueira-lobo",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ang\u00fastia",
+                "Agress\u00e3o",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Autoconfian\u00e7a"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Carlos Renan Velloso de Andrade",
+            "telefone": "(16) 99166-0889",
+            "link": "https://www.psymeetsocial.com/psicologo/carlos-renan-velloso-de-andrade",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Conflitos familiares",
+                "Terapia familiar",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Erika de Noronha Machado",
+            "telefone": "(21) 99057-5753",
+            "link": "https://www.psymeetsocial.com/psicologo/erika-de-noronha-machado",
+            "especialidades": [
+                "Ansiedade",
+                "Autoestima",
+                "Depress\u00e3o",
+                "Desenvolvimento de compet\u00eancias",
+                "Tristeza",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Autoconfian\u00e7a",
+                "V\u00edcios",
+                "Transtorno de Personalidade"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Gustavo C\u00e9sar Fernandes Santana",
+            "telefone": "(34) 99208-5784",
+            "link": "https://www.psymeetsocial.com/psicologo/gustavo-cesar-fernandes-santana",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "C\u00e2ncer",
+                "Conflitos amorosos",
+                "Depress\u00e3o",
+                "Dor",
+                "Estresse p\u00f3s-traum\u00e1tico",
+                "Morte e luto",
+                "Traumas",
+                "Transtorno Afetivo Bipolar - TAB"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Mislene Nobre Ferreira",
+            "telefone": "(69) 99278-9708",
+            "link": "https://www.psymeetsocial.com/psicologo/mislene-nobre-ferreira",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Autoconhecimento",
+                "Relacionamento abusivo",
+                "Sa\u00fade mental",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Traumas",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Guilherme Carriel Kanegusuke",
+            "telefone": "(11) 95991-3106",
+            "link": "https://www.psymeetsocial.com/psicologo/guilherme-carriel-kanegusuke",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "V\u00edcios"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Mariana Gomes Marques",
+            "telefone": "(85) 99929-8227",
+            "link": "https://www.psymeetsocial.com/psicologo/mariana-gomes-marques",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Depress\u00e3o",
+                "Sa\u00fade mental",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Brenda Lima Baptista",
+            "telefone": "(19) 92000-0898",
+            "link": "https://www.psymeetsocial.com/psicologo/brenda-lima-baptista",
+            "especialidades": [
+                "Adolesc\u00eancia",
+                "Orienta\u00e7\u00e3o sexual",
+                "Identidade de g\u00eanero",
+                "Isolamento social",
+                "LGBTQIA+",
+                "Transi\u00e7\u00f5es",
+                "Sexualidade",
+                "Autonomia",
+                "Orienta\u00e7\u00e3o de Educadores",
+                "Orienta\u00e7\u00e3o de Pais"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Rita de Cassia Bezerra Maciel",
+            "telefone": "(81) 9525-9191",
+            "link": "https://www.psymeetsocial.com/psicologo/rita-de-cassia-bezerra-maciel",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Adolesc\u00eancia",
+                "Ang\u00fastia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "S\u00edndrome do P\u00e2nico",
+                "Envelhecimento"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Tamiris Silva Bento",
+            "telefone": "(18) 99620-2953",
+            "link": "https://www.psymeetsocial.com/psicologo/tamiris-silva-bento",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Morte e luto",
+                "Traumas",
+                "C\u00e2ncer",
+                "Depress\u00e3o",
+                "Cuidados paliativos",
+                "Tristeza"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Wellington Fran\u00e7a Macedo",
+            "telefone": "(11) 95316-2422",
+            "link": "https://www.psymeetsocial.com/psicologo/wellington-franca-macedo",
+            "especialidades": [
+                "Ansiedade",
+                "Adolesc\u00eancia",
+                "Falta de foco",
+                "Depress\u00e3o",
+                "Conflitos amorosos",
+                "Casais",
+                "Relacionamentos",
+                "Psicologia esportiva"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "J\u00falio Gabriel Moreira de Assis Alves",
+            "telefone": "(79) 99148-3211",
+            "link": "https://www.psymeetsocial.com/psicologo/julio-gabriel-moreira-de-assis-alves",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse",
+                "Tristeza"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Rafael Nunes de Moraes Barbosa",
+            "telefone": "(21) 97392-4516",
+            "link": "https://www.psymeetsocial.com/psicologo/rafael-nunes-de-moraes-barbosa",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Acompanhamento terap\u00eautico",
+                "Agress\u00e3o",
+                "Agressividade",
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoconhecimento",
+                "Autoestima",
+                "Frustra\u00e7\u00e3o",
+                "Morte e luto"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Priscilla Rodrigues Alves",
+            "telefone": "(11) 97443-8050",
+            "link": "https://www.psymeetsocial.com/psicologo/priscilla-rodrigues-alves",
+            "especialidades": [
+                "Ang\u00fastia",
+                "Ansiedade",
+                "Autoaceita\u00e7\u00e3o",
+                "Autoestima",
+                "Frustra\u00e7\u00e3o",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Altera\u00e7\u00f5es de humor",
+                "Estresse",
+                "Traumas"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Lara Cristina Carlos de Morais",
+            "telefone": "(84) 98819-2965",
+            "link": "https://www.psymeetsocial.com/psicologo/lara-cristina-carlos-de-morais",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Marcelo Silva",
+            "telefone": "(17) 99169-1984",
+            "link": "https://www.psymeetsocial.com/psicologo/marcelo-silva",
+            "especialidades": [
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "V\u00edcios",
+                "Traumas",
+                "Autoconfian\u00e7a",
+                "Estresse"
+            ],
+            "sexo": "M"
+        },
+        {
+            "nome": "Karen Lohana da Silva Andr\u00e9",
+            "telefone": "(69) 99254-8057",
+            "link": "https://www.psymeetsocial.com/psicologo/karen-lohana-da-silva-andre",
+            "especialidades": [
+                "Acompanhamento terap\u00eautico",
+                "Autoconhecimento",
+                "Sa\u00fade mental",
+                "Relacionamentos",
+                "Traumas",
+                "Depend\u00eancia emocional",
+                "Conflitos familiares",
+                "Ang\u00fastia",
+                "Automutila\u00e7\u00e3o",
+                "Suic\u00eddio"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Renata de Souza",
+            "telefone": "(31) 98768-9171",
+            "link": "https://www.psymeetsocial.com/psicologo/renata-de-souza",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Adolesc\u00eancia",
+                "Altera\u00e7\u00f5es de humor",
+                "Ansiedade",
+                "Assertividade",
+                "Autoconfian\u00e7a",
+                "Autoconhecimento",
+                "Tristeza",
+                "Procrastina\u00e7\u00e3o",
+                "Relacionamentos"
+            ],
+            "sexo": "F"
+        },
+        {
+            "nome": "Amanda Nascimento da Costa",
+            "telefone": "(11) 99234-9506",
+            "link": "https://www.psymeetsocial.com/psicologo/amanda-nascimento-da-costa",
+            "especialidades": [
+                "Acompanhamento psicol\u00f3gico",
+                "Ansiedade",
+                "Depress\u00e3o",
+                "Relacionamentos",
+                "Ang\u00fastia",
+                "Autoestima",
+                "Altera\u00e7\u00f5es de humor",
+                "Morte e luto",
+                "Procrastina\u00e7\u00e3o",
+                "Estresse"
+            ],
+            "sexo": "M"
+        }
+    ]
+}

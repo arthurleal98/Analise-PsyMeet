@@ -1,9 +1,9 @@
-import mysql.connector
 import json
-
+import mysql.connector
 class BancoDeDados:
     def __init__(self, host='localhost', user='root', password='root'):
-        self.con = mysql.connector.connect(host=host, user=user, password=password)
+        self.con = mysql.connector.connect(host=host, user=user, password=password) 
+        
         self.cursor = self.con.cursor()
         self.cursor.execute('create database if not exists psicologos')
         self.cursor.execute('use psicologos')
